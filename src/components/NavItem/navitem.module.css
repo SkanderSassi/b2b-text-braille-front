@@ -1,0 +1,13 @@
+.navitem{
+    padding: 0.5rem 1rem !important;
+}
+.text{
+    text-transform: capitalize;
+    color: #001e3c;
+    font-size: 18px;
+    font-family: Eina02,Montserra,sans-serif;
+}
+
+.navitem:hover{
+    color:orange;
+}

@@ -1,0 +1,18 @@
+.navbar{
+    background: white !important;
+    height : 120px;
+    display:flex;
+    box-shadow: none !important;
+    border-bottom: 0.2px solid silver ;
+    justify-content: center;
+}
+.toolbar{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 160px !important;
+    padding-right: 160px !important;
+}
+
+.logo{
+    height:50px;
+}
